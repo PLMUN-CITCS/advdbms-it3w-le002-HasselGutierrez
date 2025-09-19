@@ -1,5 +1,3 @@
-CREATE DATABASE `UniversityDB`;
-
 Use `UniversityDB`;
 
 -- Step 1: Create the Students table with constraints
